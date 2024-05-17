@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    background-image: url('/largato.jpg') ;
+    background-size: cover;
+    background-position: center;
+    padding: 20px 5px;
+    width: 98vw;
+}
+.imgHome{
+    margin: 10px;
+}
